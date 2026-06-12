@@ -1,0 +1,8 @@
+# Binários compilados e executáveis
+*.o
+*.exe
+projeto
+
+# Arquivos gerados pela execução do programa
+*.bin
+*.txt
